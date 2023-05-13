@@ -1,0 +1,5 @@
+package com.mike.Employee.repository;
+
+public interface EmployeeRepository {
+
+}
